@@ -5,7 +5,7 @@ set -e pipefail
 # Check if Charts have Changed
 charts=(gateway portal gateway-otk druid)
 
-# Get latest available versions
+# Get latest available versions from Chart Repo
 l7json=$(helm search repo layer7/ -o json)
 err=()
 for chart in ${charts[@]}; do
