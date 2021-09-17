@@ -8,7 +8,7 @@ global:
   # If using the demo database mysql.xxx needs to match the values here
   # By default a user called admin will be created and given admin rights
   databaseType: mysql
-  databaseSecret: database-secrets
+  databaseSecret: database-secret
   databaseUsername: portal
 # databasePassword: 7layer
 # demoDatabaseRootPassword: 7layer
