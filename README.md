@@ -1,5 +1,5 @@
 ## APIM Helm Charts
-This repository contains a series of Helm Charts for the Layer7 API Management (APIM) Portfolio.
+This repository contains a series of Helm Charts for the Layer7 API Management (APIM) Portfolios.
 
 ## Usage
 Helm Charts are essentially 'packaged applications' that describe how the APIM solution shall be built in a Kubernetes cluster. Navigate into the Chart you'd like to deploy for more details.
